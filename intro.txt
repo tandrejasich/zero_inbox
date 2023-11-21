@@ -1,0 +1,3 @@
+ Problem to solve for: 
+ Gmail does not make it as easy as possible to actually get to inbox zero.
+ Would like to identify and remove subscriptions to delete 1000s of emails from inbox at once
